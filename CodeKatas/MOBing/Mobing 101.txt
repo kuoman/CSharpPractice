@@ -1,0 +1,21 @@
+﻿Primary Focus
+Secondary Focus
+Problem: FizzBuzz
+
+Every 3 minutes switch navigator => driver
+First cycle only navigator speaks.
+Driver can ask clarifiying questions.
+Navigator should work on conveying intent, not telling the driver exactly what to do (unless skill lacks)
+No one else talks.
+
+After 1 or 2 cycles of this, add in two navigators
+
+Eventually, everyone can talk and cycle navigators (only one converstation at a time)
+
+Results:
+Commented out code should be deleted
+Why a class?
+Everyone moved forward
+Lowest common denominator
+
+

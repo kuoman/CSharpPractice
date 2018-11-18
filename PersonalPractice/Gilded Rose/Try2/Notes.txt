@@ -1,0 +1,23 @@
+﻿
+
+Items
+
+SellIn value
+Quality value
+Name
+
+Daily "degrade" batch
+maximum of 50 quality
+
+Aged Brie - increases in quality
+
+Sulfuras - 
+	Legendary quality never changes 
+	Max of 80 quality
+
+Concert Tickets 
+	Increase 2x 10-6 days
+	Increase 3x 5-0 days
+	-1 days zero value
+
+

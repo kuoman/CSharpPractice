@@ -1,0 +1,584 @@
+﻿{
+    "_meta": {
+        "counts": { "total": 58562 },
+        "pages": {
+            "total": 29281,
+            "current": 1,
+            "next": 2,
+            "previous": null
+        },
+        "matches": {
+            "providers": [ "p1007346649", "p1007346793" ],
+            "locations": [ 1409238, 1410381 ],
+            "location_specializations": [],
+            "field_specialties": [ 1000125, 1000086 ]
+        },
+        "others": {
+            "providers": [],
+            "locations": [],
+            "location_specializations": [],
+            "field_specialties": []
+        }
+    },
+    "cash_reward_reference_number": null,
+    "providers": [
+        {
+            "_meta": null,
+            "disclaimers": [],
+            "id": 1007346649,
+            "name": "Deana Marie Gazzola",
+            "type": "P",
+            "gender": "F",
+            "photos": [],
+            "degrees": [ "MD" ],
+            "awards": {},
+            "bdc": {},
+            "identifiers": [
+                {
+                    "type_code": "NPI",
+                    "value": "1427227818"
+                },
+                {
+                    "type_code": "PID",
+                    "value": "81050930"
+                }
+            ],
+            "languages": [],
+            "href": "/api/professionals/1007346649/profile",
+            "locations": [
+                {
+                    "_meta": { "distance": 7.89246978105119 },
+                    "id": 1409238,
+                    "name": "Comprehensive Epilepsy Center",
+                    "address": {
+                        "addr_line1": "223 E 34th St",
+                        "addr_line2": null,
+                        "city": "New York",
+                        "state_code": "NY",
+                        "sub_national": null,
+                        "county": "New York",
+                        "country_code": null,
+                        "postal_code": "10016",
+                        "latitude": 40.745324,
+                        "longitude": -73.976885
+                    },
+                    "awards": {},
+                    "bdc": {},
+                    "phones": {
+                        "voice": [
+                            {
+                                "number": "2122638710",
+                                "type": "Voice",
+                                "type_code": "V",
+                                "is_primary": null
+                            }
+                        ]
+                    },
+                    "cost": null,
+                    "tiers": {},
+                    "identifiers": [
+                        {
+                            "type_code": "DEA",
+                            "value": "FG0711312"
+                        },
+                        {
+                            "type_code": "PLI",
+                            "value": "99591499"
+                        }
+                    ],
+                    "amenities": {},
+                    "disclaimers": [],
+                    "contracts": [
+                        {
+                            "id": 1827602,
+                            "awards": {},
+                            "bdc": {},
+                            "has_bdc_affiliated_facility": null,
+                            "group_affiliations": [
+                                {
+                                    "name": "Comprehensive Epilepsy Center",
+                                    "description": null,
+                                    "information": null,
+                                    "facility_id": 1002639076,
+                                    "facility_location_id": 1552523
+                                }
+                            ],
+                            "hospital_affiliations": [
+                                {
+                                    "name": "NYU Langone Medical Center",
+                                    "description": null,
+                                    "information": null,
+                                    "facility_id": 1003010720,
+                                    "facility_location_id": 1493535,
+                                    "address": {
+                                        "addr_line1": null,
+                                        "addr_line2": null,
+                                        "city": null,
+                                        "state_code": null,
+                                        "sub_national": null,
+                                        "county": null,
+                                        "country_code": null,
+                                        "postal_code": null,
+                                        "latitude": null,
+                                        "longitude": null
+                                    }
+                                },
+                                {
+                                    "name": "Hospital for Joint Diseases Orthopedic Institute",
+                                    "description": null,
+                                    "information": null,
+                                    "facility_id": 1002900465,
+                                    "facility_location_id": 1865887,
+                                    "address": {
+                                        "addr_line1": null,
+                                        "addr_line2": null,
+                                        "city": null,
+                                        "state_code": null,
+                                        "sub_national": null,
+                                        "county": null,
+                                        "country_code": null,
+                                        "postal_code": null,
+                                        "latitude": null,
+                                        "longitude": null
+                                    }
+                                }
+                            ],
+                            "disclaimers": [],
+                            "future_effective_date": null,
+                            "future_termination_date": null,
+                            "identifiers": [
+                                {
+                                    "type_code": "DEA",
+                                    "value": "FG0711312"
+                                },
+                                {
+                                    "type_code": "ELI",
+                                    "value": "4173|81050930|561480"
+                                },
+                                {
+                                    "type_code": "PLI",
+                                    "value": "99591499"
+                                }
+                            ],
+                            "tiers": {},
+                            "is_pcp": null,
+                            "is_pcp_for_accounts": null,
+                            "specializations": [
+                                {
+                                    "id": 28995943,
+                                    "professional_location_contract_id": 1827602,
+                                    "professional_location_id": 1409238,
+                                    "professional_id": 1007346649,
+                                    "tier": null,
+                                    "is_certified": "Y",
+                                    "field_specialty": {
+                                        "_id": 1000125,
+                                        "name": "Psychiatrist",
+                                        "title": null,
+                                        "partner_code": "PSY",
+                                        "field": {
+                                            "id": 1000000,
+                                            "name": null,
+                                            "partner_code": null
+                                        }
+                                    },
+                                    "locations": [],
+                                    "contracts": [],
+                                    "specializations": []
+                                },
+                                {
+                                    "id": 28995944,
+                                    "professional_location_contract_id": 1827602,
+                                    "professional_location_id": 1409238,
+                                    "professional_id": 1007346649,
+                                    "tier": null,
+                                    "is_certified": "Y",
+                                    "field_specialty": {
+                                        "_id": 1000086,
+                                        "name": "Neurologist",
+                                        "title": null,
+                                        "partner_code": "NEU",
+                                        "field": {
+                                            "id": 1000000,
+                                            "name": null,
+                                            "partner_code": null
+                                        }
+                                    },
+                                    "locations": [],
+                                    "contracts": [],
+                                    "specializations": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 1827613,
+                            "awards": {},
+                            "bdc": {},
+                            "has_bdc_affiliated_facility": null,
+                            "group_affiliations": [
+                                {
+                                    "name": "Comprehensive Epilepsy Center",
+                                    "description": null,
+                                    "information": null,
+                                    "facility_id": 1002639076,
+                                    "facility_location_id": 1552523
+                                }
+                            ],
+                            "hospital_affiliations": [
+                                {
+                                    "name": "NYU Langone Medical Center",
+                                    "description": null,
+                                    "information": null,
+                                    "facility_id": 1003010720,
+                                    "facility_location_id": 1493535,
+                                    "address": {
+                                        "addr_line1": null,
+                                        "addr_line2": null,
+                                        "city": null,
+                                        "state_code": null,
+                                        "sub_national": null,
+                                        "county": null,
+                                        "country_code": null,
+                                        "postal_code": null,
+                                        "latitude": null,
+                                        "longitude": null
+                                    }
+                                },
+                                {
+                                    "name": "Hospital for Joint Diseases Orthopedic Institute",
+                                    "description": null,
+                                    "information": null,
+                                    "facility_id": 1002900465,
+                                    "facility_location_id": 1865887,
+                                    "address": {
+                                        "addr_line1": null,
+                                        "addr_line2": null,
+                                        "city": null,
+                                        "state_code": null,
+                                        "sub_national": null,
+                                        "county": null,
+                                        "country_code": null,
+                                        "postal_code": null,
+                                        "latitude": null,
+                                        "longitude": null
+                                    }
+                                }
+                            ],
+                            "disclaimers": [],
+                            "future_effective_date": null,
+                            "future_termination_date": null,
+                            "identifiers": [
+                                {
+                                    "type_code": "ELI",
+                                    "value": "PPO|81050930|561480"
+                                },
+                                {
+                                    "type_code": "PLI",
+                                    "value": "99591499"
+                                },
+                                {
+                                    "type_code": "DEA",
+                                    "value": "FG0711312"
+                                }
+                            ],
+                            "tiers": {},
+                            "is_pcp": null,
+                            "is_pcp_for_accounts": null,
+                            "specializations": [
+                                {
+                                    "id": 28995945,
+                                    "professional_location_contract_id": 1827613,
+                                    "professional_location_id": 1409238,
+                                    "professional_id": 1007346649,
+                                    "tier": null,
+                                    "is_certified": "Y",
+                                    "field_specialty": {
+                                        "_id": 1000125,
+                                        "name": "Psychiatrist",
+                                        "title": null,
+                                        "partner_code": "PSY",
+                                        "field": {
+                                            "id": 1000000,
+                                            "name": null,
+                                            "partner_code": null
+                                        }
+                                    },
+                                    "locations": [],
+                                    "contracts": [],
+                                    "specializations": []
+                                },
+                                {
+                                    "id": 28995946,
+                                    "professional_location_contract_id": 1827613,
+                                    "professional_location_id": 1409238,
+                                    "professional_id": 1007346649,
+                                    "tier": null,
+                                    "is_certified": "Y",
+                                    "field_specialty": {
+                                        "_id": 1000086,
+                                        "name": "Neurologist",
+                                        "title": null,
+                                        "partner_code": "NEU",
+                                        "field": {
+                                            "id": 1000000,
+                                            "name": null,
+                                            "partner_code": null
+                                        }
+                                    },
+                                    "locations": [],
+                                    "contracts": [],
+                                    "specializations": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "specializations": [
+                {
+                    "id": 1430197,
+                    "professional_id": 1007346649,
+                    "is_certified": "Y",
+                    "field_specialty": {
+                        "_id": 1000125,
+                        "name": "Psychiatrist Pro",
+                        "title": null,
+                        "partner_code": "PSY",
+                        "field": null
+                    },
+                    "locations": [],
+                    "contracts": [],
+                    "specializations": []
+                },
+                {
+                    "id": 1430196,
+                    "professional_id": 1007346649,
+                    "is_certified": "Y",
+                    "field_specialty": {
+                        "_id": 1000086,
+                        "name": "Neurologist Pro",
+                        "title": null,
+                        "partner_code": "NEU",
+                        "field": null
+                    },
+                    "locations": [],
+                    "contracts": [],
+                    "specializations": []
+                }
+            ],
+            "reviews": {
+                "overall_rating": null,
+                "percent_recommended": null,
+                "total_ratings": 0
+            }
+        },
+        {
+            "_meta": null,
+            "disclaimers": [],
+            "id": 1007346793,
+            "name": "Erica K Kass",
+            "type": "F",
+            "gender": "F",
+            "photos": [],
+            "degrees": [ "MD" ],
+            "awards": {},
+            "bdc": {},
+            "identifiers": [
+                {
+                    "type_code": "NPI",
+                    "value": "1609021922"
+                },
+                {
+                    "type_code": "PID",
+                    "value": "980417095"
+                }
+            ],
+            "languages": [],
+            "href": "/api/professionals/1007346793/profile",
+            "locations": [
+                {
+                    "_meta": { "distance": 7.93684893654276 },
+                    "id": 1410381,
+                    "name": "NewYork-Presbyterian Morgan Stanley Children's Hospital",
+                    "address": {
+                        "addr_line1": "3959 Broadway",
+                        "addr_line2": null,
+                        "city": "New York",
+                        "state_code": "NY",
+                        "sub_national": null,
+                        "county": "New York",
+                        "country_code": null,
+                        "postal_code": "10032",
+                        "latitude": 40.839768,
+                        "longitude": -73.941483
+                    },
+                    "awards": {},
+                    "bdc": {},
+                    "phones": {
+                        "voice": [
+                            {
+                                "number": "2123055437",
+                                "type": "Voice",
+                                "type_code": "V",
+                                "is_primary": null
+                            }
+                        ],
+                        "fax": [
+                            {
+                                "number": "2123053406",
+                                "type": "Fax",
+                                "type_code": "F",
+                                "is_primary": null
+                            }
+                        ]
+                    },
+                    "cost": null,
+                    "tiers": {},
+                    "identifiers": [
+                        {
+                            "type_code": "TAX",
+                            "value": "000380891"
+                        },
+                        {
+                            "type_code": "DEA",
+                            "value": "FK1850913"
+                        },
+                        {
+                            "type_code": "PLI",
+                            "value": "100815319"
+                        }
+                    ],
+                    "amenities": {},
+                    "disclaimers": [],
+                    "contracts": [
+                        {
+                            "id": 2609971,
+                            "awards": {},
+                            "bdc": {},
+                            "has_bdc_affiliated_facility": null,
+                            "group_affiliations": [
+                                {
+                                    "name": "NewYork-Presbyterian Morgan Stanley Children's Hospital",
+                                    "description": null,
+                                    "information": null,
+                                    "facility_id": 1002689490,
+                                    "facility_location_id": 1611059
+                                }
+                            ],
+                            "hospital_affiliations": [],
+                            "disclaimers": [],
+                            "future_effective_date": null,
+                            "future_termination_date": null,
+                            "identifiers": [
+                                {
+                                    "type_code": "ELI",
+                                    "value": "PPO|980417095|35741"
+                                },
+                                {
+                                    "type_code": "PLI",
+                                    "value": "100815319"
+                                },
+                                {
+                                    "type_code": "TAX",
+                                    "value": "000380891"
+                                },
+                                {
+                                    "type_code": "DEA",
+                                    "value": "FK1850913"
+                                }
+                            ],
+                            "tiers": {},
+                            "is_pcp": null,
+                            "is_pcp_for_accounts": null,
+                            "specializations": [
+                                {
+                                    "id": 28989592,
+                                    "professional_location_contract_id": 2609971,
+                                    "professional_location_id": 1410381,
+                                    "professional_id": 1007346793,
+                                    "tier": null,
+                                    "is_certified": "Y",
+                                    "field_specialty": {
+                                        "_id": 1000086,
+                                        "name": "Neurologist",
+                                        "title": null,
+                                        "partner_code": "NEU",
+                                        "field": {
+                                            "id": 1000000,
+                                            "name": null,
+                                            "partner_code": null
+                                        }
+                                    },
+                                    "locations": [],
+                                    "contracts": [],
+                                    "specializations": []
+                                },
+                                {
+                                    "id": 28989595,
+                                    "professional_location_contract_id": 2609971,
+                                    "professional_location_id": 1410381,
+                                    "professional_id": 1007346793,
+                                    "tier": null,
+                                    "is_certified": "Y",
+                                    "field_specialty": {
+                                        "_id": 1000125,
+                                        "name": "Psychiatrist",
+                                        "title": null,
+                                        "partner_code": "PSY",
+                                        "field": {
+                                            "id": 1000000,
+                                            "name": null,
+                                            "partner_code": null
+                                        }
+                                    },
+                                    "locations": [],
+                                    "contracts": [],
+                                    "specializations": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "specializations": [
+                {
+                    "id": 1431348,
+                    "professional_id": 1007346793,
+                    "is_certified": "Y",
+                    "field_specialty": {
+                        "_id": 1000086,
+                        "name": "Neurologist",
+                        "title": null,
+                        "partner_code": "NEU",
+                        "field": null
+                    },
+                    "locations": [],
+                    "contracts": [],
+                    "specializations": []
+                },
+                {
+                    "id": 1431347,
+                    "professional_id": 1007346793,
+                    "is_certified": "Y",
+                    "field_specialty": {
+                        "_id": 1000125,
+                        "name": "Psychiatrist",
+                        "title": null,
+                        "partner_code": "PSY",
+                        "field": null
+                    },
+                    "locations": [],
+                    "contracts": [],
+                    "specializations": []
+                }
+            ],
+            "reviews": {
+                "overall_rating": null,
+                "percent_recommended": null,
+                "total_ratings": 0
+            }
+        }
+    ],
+    "disclaimers": [],
+    "service_messages": null
+}

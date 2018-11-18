@@ -1,0 +1,50 @@
+﻿
+The league’s 32 teams are split into two conferences — the American Football Conference (AFC) 
+and the National Football Conference (NFC). The 16 teams in each conference are split into 
+the East, North, South and West divisions; every division has four teams.
+
+Here’s how each team’s opponents are set:
+
+Every team plays six games against the other three teams in its division, facing off twice per 
+season — once at home and once on the road.
+
+The NFL's scheduling formula ensures;that all teams will play every team from every division 
+in the other conference once every four years.
+
+The NFL's scheduling formula ensures that all teams will play every team from every division 
+in the other conference once every four years.
+
+Every team plays one game against each of the four teams from a division within its 
+conference — two games at home and two on the road. Which division a team plays is determined 
+by a rotation system ensuring that the teams in one division will play the teams in every other 
+division in its conference once every three years.
+
+Every team plays one game against each of the four teams from a division in the other conference 
+once per season — two games at home and two on the road. These matchups are also determined by a 
+rotation, which ensures that all teams play every team from every division in the other conference 
+once every four years.
+
+Every team plays its remaining two games against teams from the two remaining divisions in its own 
+conference — one game at home and the other on the road. The matchups are determined by where the 
+teams finished in their divisions in the previous season. For example, a team that finished the 
+previous year in third place in its division will play the third-place teams from the two other 
+divisions in its conference.
+
+
+32 teams, 16 games per season, 17 week season
+2 (AFC, NFC) conferences
+Each conference has 4 divisions (North, South, East and West) with 4 teams
+
+Every team plays 6 games against the other 3 teams in their division (home and away equal) - 6 games
+
+Every team plays one team from a division within it's conference - 4 games
+
+Every team plays one team from a division in the other conference (2 home, 2 away) - 4 games
+
+Every team plays their remaining two games (home/away) from a division within it's conference
+
+Every team has one bye week per season
+
+A maximum of 1 team per week can have a bye per conference
+
+

@@ -1,0 +1,28 @@
+﻿
+Item
+	x- SellIn Value # of days
+	x- Quality Value 
+
+End of day batch
+	x- adjust sellin value
+		
+	x- adjust quality value
+		x- if past sellin quality 2x adjust down
+		x- limit of zero
+		x- limit of 50
+
+Speciality Items
+	x- Aged Brie increase in quality
+	- Sulfuras
+		- no sellin
+		- quality constant
+		- quality = 80
+	- Backstage passes increase in quality
+		- 10-6 sellin 2x adjust up
+		- 5-0 sellin 3x adjust up
+		- after sellin 0 quality
+	- Conjured Items decrease in quality 2x
+
+
+How how much does the quality go down or up? 1
+

@@ -1,0 +1,31 @@
+﻿PSP:
+	Started Bowling, but dove into what is the first story, simplest possible to work on.
+
+
+ESS:
+	Started in by talking about what is a Kata.
+	Asking about is the one thing we going to practice intentionally today.
+
+
+Red, Green, Refactor
+Steve's Kata Rules:
+	1. Focus on the Intentional Practicie topic! (it's not about getting to the destination, it's about how you get there!)
+	2. Simplest possible to get things to work
+	3. Supporting #1, carte blanche (dirty and bad things, within reason)
+	4. Working software
+	5. If you've never seen a test fail, how do you know it works?  How did you ever write code to support it?
+
+Four Rules of Simple Design
+	1. Code Works, Tests pass, Working Code, passes all tests
+	2. Effectively named, conveys intent, reveals intent, Clear/Expressive and consistent
+	3. No Duplication, DRY, Duplicates no behavior/configuration
+	4. Small, fewest elements, Minimal methods/classes/modules
+
+Daily Format:
+Code Problem: Bowling, FizzBuzz...etc
+Practicing: 1 primary and maybe 1 secondary practice
+Style: Individual, Pairing, Mob
+
+
+
+

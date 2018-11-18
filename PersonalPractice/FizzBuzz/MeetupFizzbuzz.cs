@@ -1,10 +1,11 @@
 ﻿using System;
+using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace CSharpPractice
+namespace PersonalPractice.FizzBuzz
 {
     [TestClass]
-    public class UnitTest1
+    public class MeetupFizzbuzz
     {
         [TestMethod]
         public void TestMethod1()

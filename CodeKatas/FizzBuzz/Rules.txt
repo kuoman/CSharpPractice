@@ -1,0 +1,4 @@
+﻿        //// input of a number and return the number as a string
+        // if the number is divisible by 3 return "fizz"
+        // if the number is divisible by 5 return "buzz"
+        // if the number is divisible by 3 and 5 "fizzbuzz"

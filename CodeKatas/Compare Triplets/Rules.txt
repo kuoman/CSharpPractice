@@ -1,0 +1,10 @@
+﻿        // score a list of numbers
+        // if a > b = a gets 1 point
+        // if b > a = b gets 1 point
+        // if a == b no points
+
+        // output is a total score "A=2, B=1" List A[1,2,3, 3], ListB[0,1,5, 3]
+
+        // iterate over a list
+        /// score two values
+        // format output

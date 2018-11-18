@@ -1,0 +1,19 @@
+﻿DateTime SellBy - number of days to sell an item
+int Quality - how valuable the item is
+End of the day batch lowers value for all
+
+
+Once expired quality degrades 2x
+Max quality = 50
+
+Items:
+"Aged Brie" increases in quality over time
+
+Sulfuras has no SellBy and never decreases
+
+Backstage Passes increase Quality as SellBy approaches
+Quality increases 2x 10-6 days before concert
+Quality increases 3x 5-0 days before concert
+Quality = 0 after concert
+
+Conjured items degrade 2x as fast as normal
